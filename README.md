@@ -1,4 +1,4 @@
-# Pizza Valencia.
+# Felixxoh's Pizza.
 https://github.com/felix-nathan/Pizza.git
 
 ## Description.
@@ -22,20 +22,6 @@ Felix Nathaniel Wanjau.
     *Jquery
     *Bootsrap
     *Html5
-
-## BDD.
-
-    | Behaviour      | Input        | Output       |
-| :------------- | :----------: | -----------: |
-|  Select pizza size  |   large, medium, small |   medium  |
-| Select piza flavour  | chicken tika, periperi,rasberry dessert, chicken alfredo, sunchoke,buffalo chicken sticks |  chicken alfredo  |
-| Select Crust   |  Either cripsy,stuffed or glutten-free  | cripsy    |
-| select toppings  |  check all the topppings you want sausage, bacon or mushroom    | bacon    |
-| Press Proceed button |     | You will get the total price for that selection on that table.|
-| Press add pizza button | pizza flavor,size, crust and toppings   | new selection added to the table.|
-| Press Checkout |     | Your get your total bill. |
-| Press home delivery | Your name, phone number and delivery location details.    |  |
-| press place order| | We have recieved your order and it will be delivered to you with your name, place of delivery and amount to be paid.|
 
 
 ## Licence.
