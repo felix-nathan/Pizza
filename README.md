@@ -28,7 +28,7 @@ MIT License
 
 Copyright (c) 2020 Moringa School
 
-Permission is 
+Permission is hereby
 
 
 
