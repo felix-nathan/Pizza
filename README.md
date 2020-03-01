@@ -15,4 +15,20 @@ Felix Nathaniel Wanjau.
 >open the index.html on your browser.
 
 
+## Terminologies used.
+    *Css
+    *Javascript
+    *Jquery
+    *Bootsrap
+    *Html5
+
+
+## Licence.
+MIT License
+
+Copyright (c) 2020 Moringa School
+
+Permission is 
+
+
 
