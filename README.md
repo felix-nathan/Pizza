@@ -49,5 +49,3 @@ to deal in software without restriction.
 
 ## Collaborate
 For more information you can reach me out via (email) (felixxnathann@gmail.com). 
-
-## documentation
