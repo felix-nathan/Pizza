@@ -2,7 +2,7 @@
 https://github.com/felix-nathan/Pizza.git
 
 ## Description.
-This basically a project to describe, give directions and advertise my business premises dealing with pizza.
+This is basically a project to describe, give directions and advertise my business premises dealing with pizza. It gives all the prices of what we offer, our varieties and all our contacts to find our location.
 
 
 ## Author.
